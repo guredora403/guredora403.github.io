@@ -31,7 +31,7 @@ tags_path: /tags/
 description: >- # this means to ignore newlines until "baseurl:"
   自分の書きたいことを好き勝手に書き留める場所
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://guredora403.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://guredora403.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guredora403
 github_username: guredora403
 
