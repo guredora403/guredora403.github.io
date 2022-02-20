@@ -34,6 +34,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guredora403.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guredora403
 github_username: guredora403
+timezone: Asia/Tokyo
 
 # Build settings
 plugins:
